@@ -1,0 +1,26 @@
+.sup_frame{
+    margin: 7% 40%;
+}
+body{
+    background: linear-gradient(to right,#355C7D,#6C5B7B,#C06C84);
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-color: bisque;
+}
+.fitted_img{
+  width: 350px;
+  height: 300px; 
+}
+p{
+    margin-left: 310px;
+    font-family:cursive;
+    font-size: 20px;
+}
+.fitted_img:hover {
+    transform: scale(1.5);
+}
+.main_div{
+    margin-left: 25%;
+}
